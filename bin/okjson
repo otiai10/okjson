@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+var okjson = require('../');
+
+var args = process.argv;
+
+if (args.length < 4) return;
+
+console.log(okjson.fields(args[2], args[3]));
