@@ -1,0 +1,25 @@
+{
+  "name": "okjson",
+  "version": "0.0.1",
+  "description": "なんか車輪再発明したやつ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/otiai10/okjson.git"
+  },
+  "keywords": [
+    "json",
+    "validation",
+    "fields",
+    "check"
+  ],
+  "author": "otiai10",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/otiai10/okjson/issues"
+  },
+  "homepage": "https://github.com/otiai10/okjson"
+}
